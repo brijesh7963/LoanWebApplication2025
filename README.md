@@ -162,7 +162,7 @@ Body:
 ▶️ Run the Entire Project
 Start Backend:
 cd backend
-npm run dev
+npm run 
 
 Start Frontend:
 cd frontend
