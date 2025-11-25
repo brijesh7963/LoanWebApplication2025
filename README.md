@@ -36,7 +36,7 @@ JWT_SECRET=your_secret_key
 CLIENT_URL=http://localhost:5173
 
 Step 3: Run the backend
-npm run dev
+npm run server
 
 
 Backend runs at:
@@ -162,7 +162,7 @@ Body:
 ▶️ Run the Entire Project
 Start Backend:
 cd backend
-npm run 
+npm run server
 
 Start Frontend:
 cd frontend
