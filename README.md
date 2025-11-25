@@ -20,9 +20,13 @@ MongoDB Database with Mongoose
 REST API with validation
 
 🛠️ Setup Instructions
+
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/loanwebapp.git
+
+git clone https://github.com/brijesh7963/loanwebapp.git
+
 cd loanwebapp
+
 
 🧩 Backend Setup (Node.js + Express)
 Step 1: Install dependencies
